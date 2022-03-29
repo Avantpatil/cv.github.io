@@ -1,0 +1,109 @@
+#first {
+  background-color: #750550;
+  color: #fff;
+  padding-bottom: 100px;
+}
+
+.namaskar {
+  font-family: 'Mukta', sans-serif;
+  padding-top : 50px;
+}
+
+.tp {
+  font-family: 'Mukta', sans-serif;
+  color: #fff;
+  padding-left: 50px;
+}
+
+.heading {
+  margin-top: 80px;
+  margin-left: 50px;
+}
+
+.myimage {
+  width: 200px;
+  height: 200px;
+  margin: 100px;
+
+}
+
+h1 {
+  font-size: 4rem;
+  font-family: 'Niconne', cursive;
+
+}
+
+#second {
+  text-align: center;
+}
+
+h2{
+  padding-top: 30px;
+  padding-bottom:30px;
+}
+
+h3 {
+  font-family: 'Fredoka', sans-serif;
+  font-weight: bold;
+  color: #750550;
+
+}
+
+.para {
+  font-family: 'Libre Baskerville', serif;
+}
+
+.image {
+  width: 90px;
+  float: left;
+  margin-right: 30px;
+}
+
+.skills1 {
+  width: 50%;
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+.image1 {
+  width: 90px;
+  float: right;
+  margin-left: 30px;
+}
+
+p {
+  text-align: center;
+}
+
+#third{
+  background-color: #750550;
+    padding:50px;
+  text-align: center;
+}
+ul {
+  padding: 0;
+  width: 100%;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  display: inline-block;
+  width: 19.5%;
+  margin-right: 0.625%;
+  text-align: center;
+  line-height: 3;
+  color: black;
+}
+
+li:last-child a {
+  margin-right: 0;
+}
+
+a:hover {
+  color:#fff
+}
